@@ -3,7 +3,7 @@ import random
 options = ('rock', 'papper', 'scissors')
 
 user_option_choosed = input('rock (press 1)? papper (press 2)? scissors (press 3)?')
-pc_option = random.cho
+pc_option = random.choice(options)
 # rules = [[1, 1] = false]
 
  
