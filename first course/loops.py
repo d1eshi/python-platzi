@@ -23,3 +23,11 @@ for number in my_list:
   number > 0  and new_list.append(number)
 
 print(new_list)
+
+matriz = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7,8, 9],
+]
+
+print(False or True)
